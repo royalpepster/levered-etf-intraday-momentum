@@ -178,7 +178,7 @@ Next Steps:
 - Get daily AUM: daily shares-outstanding data, from Direxion's published fund data or a terminal such as Bloomberg or FactSet, would allow sharper tests than quarterly filings.
 - Count all leveraged products: add USD and the single-stock leveraged ETFs on the largest SOXX holdings to the demand measure.
 - Event study on big-flow days: compare days with unusually large expected rebalancing (big move × high AUM) against similar-sized moves when AUM was small.
-- Control for options activity: add options dealer positioning (gamma exposure) as a second explanation, to separate it from leveraged ETF effects.
+- Control for options activity: add options dealer positioning (gamma exposure) as a second explanation to separate it from leveraged ETF effects.
 
 
 ## How to run
